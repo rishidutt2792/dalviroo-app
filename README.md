@@ -1,6 +1,9 @@
 # dalviroo-app
 url - https://dalviroo-app.herokuapp.com
 
+# Requirnment 
+    node js, postgresql,
+
 # Api 
 
 1) API to place an order with quantity -
