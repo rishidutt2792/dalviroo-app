@@ -2,7 +2,7 @@
 url - https://dalviroo-app.herokuapp.com
 
 # Requirnment 
-    node js, postgresql,
+    node js, objection js, postgresql
 
 # Api 
 
